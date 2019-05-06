@@ -1,0 +1,62 @@
+body {
+    background-image: url(woodbg.jpg);
+}
+header {
+    background-color: #68120d;
+    color:#c1c1c1;
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+    text-align:right;
+    padding: 10px;
+    border-style: hidden;
+    border-radius: 5%;
+} 
+ h1{
+    color:#270722;
+    text-align: right;
+ }
+ h2{
+   color: #68120d;
+ }
+
+ .about {
+    background-color: #c1c1c1;
+    color: black;
+    width: 60%;
+    padding: 10px;
+    margin-left: 20%;
+    margin-top: 5%;
+    border-style: hidden;
+    border-radius: 5%;
+
+    
+ } 
+ .logo {
+  width:80%;
+  float:left;
+}
+ img {
+    width:40%;
+    margin-left:30%;
+    margin-top: 5%;
+    margin-right:20%;
+  
+ }
+ a:link {
+    background-color: #c1c1c1;
+    color: #270722;
+    text-align:center;
+    display: inline-block;
+    text-decoration: none;
+    border-style: hidden;
+    border-radius: 10%;
+    padding: 5px;
+ }
+ a:visited {
+    background-color: #270722;
+    color: #c1c1c1;
+ }
+ a:hover {
+   background-color: #380e31;
+ }
